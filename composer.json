@@ -10,6 +10,7 @@
             "email": "s.mager@avantel.de"
         }
     ],
+        "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "*"
     },
