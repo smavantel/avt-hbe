@@ -1,6 +1,6 @@
 <?php
 
-namespace avt\hbe;
+namespace avantel\hbe;
 
 /**
  * hbe module definition class

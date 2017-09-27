@@ -1,5 +1,5 @@
 {
-  "name": "avantel/avt-hbe",
+  "name": "avantel/hbe",
   "description": "Hotel Booking Engine",
   "type": "library",
   "keywords": ["yii2", "extension"],
