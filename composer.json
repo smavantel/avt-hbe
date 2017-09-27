@@ -1,0 +1,21 @@
+{
+    "name": "avantel/avt-hbe",
+    "description": "Hotel Booking Engine",
+    "type": "library",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stefan Mager",
+            "email": "s.mager@avantel.de"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "avt\\hbe\\": ""
+        }
+    }
+}
