@@ -1,6 +1,6 @@
 <?php
 
-namespace common\modules\hbe\controllers;
+namespace avt\hbe\controllers;
 
 use yii\web\Controller;
 

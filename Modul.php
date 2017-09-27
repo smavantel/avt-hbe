@@ -1,6 +1,6 @@
 <?php
 
-namespace common\modules\hbe;
+namespace avt\hbe;
 
 /**
  * hbe module definition class
